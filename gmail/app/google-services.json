@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433287453227",
+    "project_id": "gmaillogin-199910"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433287453227:android:93dec5683b8ef129",
+        "android_client_info": {
+          "package_name": "com.ex.sams.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433287453227-oeb72k5sob3ejfe1fiv1e12vesshjrom.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "433287453227-0f1hhe142052pjeq27javhsvbf4a03i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ex.sams.login",
+            "certificate_hash": "40ae70fef19039dd073d3eab2466ab9813470408"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIOYBowytTya6UZeFdBchrc0m-YoswNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
